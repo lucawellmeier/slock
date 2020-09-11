@@ -12,4 +12,4 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* allow control key to trigger fail on clear */
-static int controlkeyclear = 0;
+static int controlkeyclear = 1;
