@@ -1,5 +1,5 @@
 # slock
 
-My patched version of [slock](https://slock.suckless.org).
+My patched version of [slock](https://tools.suckless.org/slock).
 
 Installed patches:
